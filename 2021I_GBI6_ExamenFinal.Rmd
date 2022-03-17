@@ -111,7 +111,7 @@ long_df <- function(df) {
 La tabla resultante tendrá tres columnas: ```dataset, gen, expresion_level```.  
 ```{r df_long}
 # Genere la data df_long 
-
+## dataframe
 df_long <- long_df(df) 
 
 
